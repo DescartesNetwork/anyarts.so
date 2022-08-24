@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.371397e0.js",
+    "main.js": "/static/js/main.2b0018f0.js",
     "any_arts.js": "/index.js",
-    "static/js/src_bootstrap_tsx.9aeefc25.chunk.js": "/static/js/src_bootstrap_tsx.9aeefc25.chunk.js",
+    "static/js/src_bootstrap_tsx.c22f23e4.chunk.js": "/static/js/src_bootstrap_tsx.c22f23e4.chunk.js",
     "static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.9e8f172f.chunk.js": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.9e8f172f.chunk.js",
     "static/js/node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive-node_modules_react_jsx-r-7486bc.b1611f4b.chunk.js": "/static/js/node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive-node_modules_react_jsx-r-7486bc.b1611f4b.chunk.js",
     "static/js/node_modules_prop-types_index_js-node_modules_react-router-dom_esm_react-router-dom_js.977d3bde.chunk.js": "/static/js/node_modules_prop-types_index_js-node_modules_react-router-dom_esm_react-router-dom_js.977d3bde.chunk.js",
     "static/js/node_modules_react_index_js.9868cf96.chunk.js": "/static/js/node_modules_react_index_js.9868cf96.chunk.js",
     "static/css/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.f6e08873.chunk.css": "/static/css/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.f6e08873.chunk.css",
-    "static/js/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.10fdb460.chunk.js": "/static/js/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.10fdb460.chunk.js",
+    "static/js/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.9cbf31a8.chunk.js": "/static/js/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.9cbf31a8.chunk.js",
     "static/js/vendors-node_modules_react-dom_index_js.760e49ae.chunk.js": "/static/js/vendors-node_modules_react-dom_index_js.760e49ae.chunk.js",
     "static/js/node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive.35083ad6.chunk.js": "/static/js/node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive.35083ad6.chunk.js",
     "static/js/node_modules_web-vitals_dist_web-vitals_js.c483e5a9.chunk.js": "/static/js/node_modules_web-vitals_dist_web-vitals_js.c483e5a9.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/vendors-node_modules_react-router_esm_react-router_js.743b28a8.chunk.js": "/static/js/vendors-node_modules_react-router_esm_react-router_js.743b28a8.chunk.js",
     "static/js/vendors-node_modules_senswap_sen-js_dist_index_js-node_modules_sentre_antd-ionicon_dist_index-5f0430.bd02243d.chunk.js": "/static/js/vendors-node_modules_senswap_sen-js_dist_index_js-node_modules_sentre_antd-ionicon_dist_index-5f0430.bd02243d.chunk.js",
     "static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css": "/static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css",
-    "static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.870a9b84.chunk.js": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.870a9b84.chunk.js",
+    "static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.1e0cc079.chunk.js": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.1e0cc079.chunk.js",
     "static/js/vendors-node_modules_antd_es_index_js.0836e41e.chunk.js": "/static/js/vendors-node_modules_antd_es_index_js.0836e41e.chunk.js",
     "static/js/vendors-node_modules_react-redux_es_index_js.53a66c6a.chunk.js": "/static/js/vendors-node_modules_react-redux_es_index_js.53a66c6a.chunk.js",
     "static/js/vendors-node_modules_sentre_otc-sdk_dist_index_js-node_modules_react-text-loop_es_index_js-no-37e7b5.e826194a.chunk.js": "/static/js/vendors-node_modules_sentre_otc-sdk_dist_index_js-node_modules_react-text-loop_es_index_js-no-37e7b5.e826194a.chunk.js",
@@ -59,15 +59,15 @@
     "index.html": "/index.html",
     "static.app.tsx": "/any_arts-asset-senhub.json",
     "static/media/README.md": "/static/media/README.cd6958385873fd0100cf.md",
-    "main.371397e0.js.map": "/static/js/main.371397e0.js.map",
+    "main.2b0018f0.js.map": "/static/js/main.2b0018f0.js.map",
     "index.js.map": "/index.js.map",
-    "src_bootstrap_tsx.9aeefc25.chunk.js.map": "/static/js/src_bootstrap_tsx.9aeefc25.chunk.js.map",
+    "src_bootstrap_tsx.c22f23e4.chunk.js.map": "/static/js/src_bootstrap_tsx.c22f23e4.chunk.js.map",
     "vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.9e8f172f.chunk.js.map": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.9e8f172f.chunk.js.map",
     "node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive-node_modules_react_jsx-r-7486bc.b1611f4b.chunk.js.map": "/static/js/node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive-node_modules_react_jsx-r-7486bc.b1611f4b.chunk.js.map",
     "node_modules_prop-types_index_js-node_modules_react-router-dom_esm_react-router-dom_js.977d3bde.chunk.js.map": "/static/js/node_modules_prop-types_index_js-node_modules_react-router-dom_esm_react-router-dom_js.977d3bde.chunk.js.map",
     "node_modules_react_index_js.9868cf96.chunk.js.map": "/static/js/node_modules_react_index_js.9868cf96.chunk.js.map",
     "src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.f6e08873.chunk.css.map": "/static/css/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.f6e08873.chunk.css.map",
-    "src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.10fdb460.chunk.js.map": "/static/js/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.10fdb460.chunk.js.map",
+    "src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.9cbf31a8.chunk.js.map": "/static/js/src_bootstrap_app_tsx-src_static_images_magic-eden-logo_jpeg.9cbf31a8.chunk.js.map",
     "vendors-node_modules_react-dom_index_js.760e49ae.chunk.js.map": "/static/js/vendors-node_modules_react-dom_index_js.760e49ae.chunk.js.map",
     "node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive.35083ad6.chunk.js.map": "/static/js/node_modules_sentre_senhub_dist_components_pageLoader_lazy_recursive.35083ad6.chunk.js.map",
     "node_modules_web-vitals_dist_web-vitals_js.c483e5a9.chunk.js.map": "/static/js/node_modules_web-vitals_dist_web-vitals_js.c483e5a9.chunk.js.map",
@@ -75,12 +75,12 @@
     "vendors-node_modules_react-router_esm_react-router_js.743b28a8.chunk.js.map": "/static/js/vendors-node_modules_react-router_esm_react-router_js.743b28a8.chunk.js.map",
     "vendors-node_modules_senswap_sen-js_dist_index_js-node_modules_sentre_antd-ionicon_dist_index-5f0430.bd02243d.chunk.js.map": "/static/js/vendors-node_modules_senswap_sen-js_dist_index_js-node_modules_sentre_antd-ionicon_dist_index-5f0430.bd02243d.chunk.js.map",
     "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css.map": "/static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css.map",
-    "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.870a9b84.chunk.js.map": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.870a9b84.chunk.js.map",
+    "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.1e0cc079.chunk.js.map": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.1e0cc079.chunk.js.map",
     "vendors-node_modules_antd_es_index_js.0836e41e.chunk.js.map": "/static/js/vendors-node_modules_antd_es_index_js.0836e41e.chunk.js.map",
     "vendors-node_modules_react-redux_es_index_js.53a66c6a.chunk.js.map": "/static/js/vendors-node_modules_react-redux_es_index_js.53a66c6a.chunk.js.map",
     "vendors-node_modules_sentre_otc-sdk_dist_index_js-node_modules_react-text-loop_es_index_js-no-37e7b5.e826194a.chunk.js.map": "/static/js/vendors-node_modules_sentre_otc-sdk_dist_index_js-node_modules_react-text-loop_es_index_js-no-37e7b5.e826194a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.371397e0.js"
+    "static/js/main.2b0018f0.js"
   ]
 }
